@@ -28,3 +28,11 @@ Windows you need to put IP_OF_DOCKER:5000 , for example:
 ```
 http://192.168.99.100:5000/
 ```
+### Basic command docker-compose: 
+```
+docker-compose up
+docker-compose down
+docker-compose restart
+docker-compose exec
+docker-compose logs
+```
